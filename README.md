@@ -1,16 +1,14 @@
-### Hi there 👋
+## About me
 
-<!--
-**fojia/fojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer
 
-Here are some ideas to get you started:
+## My stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Fojia GitHub stats](https://github-readme-stats.vercel.app/api?username=fojia&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fojia&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fojia&" alt="fojia" /></p>
